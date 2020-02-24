@@ -1,0 +1,5 @@
+export const urlUtils2 = 'http://47.111.227.198:80'
+export const urlUtils = 'http://192.168.1.103:80'
+export const urlUtils1 = 'http://192.168.43.220:80'
+export const urlUtils4 = 'http://192.168.1.111:80'
+export const urlUtils3 = 'http://172.20.10.2:80'
